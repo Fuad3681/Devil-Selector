@@ -30,6 +30,7 @@ local Tab5 = window:NewTab("Paid")
 local Tab5Section = Tab5:NewSection("Buy for 12 Robux")
 local Tab6 = window:NewTab("Updates")
 local Tab6Section = Tab6:NewSection("Fixed Keyboard script")
+local Tab6Section = Tab6:NewSection("Added 10 more scripts")
 
 
 
