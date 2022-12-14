@@ -1,17 +1,4 @@
-local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Devil X","Synapse")
 
----Tabs
-
-local Tab1 = window:NewTab("Select")
-local Tab1Section = Tab1:NewSection("Select one gui")
-local Tab2 = window:NewTab("Paid")
-local Tab2Section = Tab2:NewSection("12 robux")
-
-
----Buttons
-
-Tab1Section:NewButton("Devil X","Select",function()
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local window = kavoUi.CreateLib("Devil X","Sentinel")
 
@@ -1407,10 +1394,4 @@ end)
 
 Tab1Section:NewButton("Nicos next bot","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader"))()
-end
 end)
-
-Tab1Section:NewButton("New ui In progress","In progress",function()
-Print("In Progress")
-end)
-
