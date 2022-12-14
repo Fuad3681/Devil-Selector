@@ -1,5 +1,9 @@
+Allah Will Never Forgive You Your copying a guys work
+Ur a Pedophile- Skid 
+
+
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Devil X","BloodTheme")
+local window = kavoUi.CreateLib("Devil X selector","Synapse")
 
 ---Tabs
 
@@ -11,9 +15,9 @@ local Tab2Section = Tab2:NewSection("12 robux")
 
 ---Buttons
 
-Tab1Section:NewButton("Devil Hub","Select",function()
+Tab1Section:NewButton("Devil X","Select",function()
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Devil X","BloodTheme")
+local window = kavoUi.CreateLib("Devil X","Sentinel")
 
 ---Tabs
 
