@@ -359,7 +359,6 @@ end)
 
 Tab1Section:NewButton("FnF inf score","Get key https://discord.gg/8aTG7YK4",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Balligusapos/Balligusapos/main/video.mp4"))()
-end) 
 end)
 
 Tab1Section:NewButton("Ninja Legends ","No description",function()
