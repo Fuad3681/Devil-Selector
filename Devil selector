@@ -18,6 +18,7 @@ local Tab5Section = Tab5:NewSection("Buy for 12 Robux")
 local Tab6 = window:NewTab("Updates")
 local Tab6Section = Tab6:NewSection("Fixed Keyboard script")
 local Tab6Section = Tab6:NewSection("Added 10 more scripts")
+local Tab6Section = Tab6:NewSection("Added animations tab")
 local Tab7 = window:NewTab("Animations fe")
 local Tab7Section = Tab7:NewSection("Fe animation")
 
