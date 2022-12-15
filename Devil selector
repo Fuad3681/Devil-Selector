@@ -1496,18 +1496,18 @@ Tab7Section:NewButton("Krystal dance","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/FV3HLmTH"))()
 end)
 
-Tab1Section:NewButton("RB Neptunion","No description",function()
+Tab7Section:NewButton("RB Neptunion","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/ztTyE58C"))()
 end)
 
-Tab1Section:NewButton("Neptunion V5","No description",function()
+Tab7Section:NewButton("Neptunion V5","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/AdLeNbD7"))()
 end)
 
-Tab1Section:NewButton("Trash Can","No description",function()
+Tab7Section:NewButton("Trash Can","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/zeYrMRa2"))()
 end)
 
-Tab1Section:NewButton("Rocket Launcher","No description",function()
+Tab7Section:NewButton("Rocket Launcher","No description",function()
 loadstring(game:HttpGet(("https://gist.githubusercontent.com/redmoons1/4ae7d132cdfe8dba6ab2081e38ca1f8b/raw/ca9b6c1b2bad7589bad72aeaec720ad18890b702/rocket launcher"),true))()
 end)
