@@ -1452,7 +1452,7 @@ Tab7Section:NewButton("Headless","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/QUDSU8Fk"))()
 end)
 
-Tab7Section:NewButton("Minigum V2","No description",function()
+Tab7Section:NewButton("Minigun V2","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/2VNFAQZp"))()
 end)
 
