@@ -1395,3 +1395,8 @@ end)
 Tab1Section:NewButton("Nicos next bot","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader"))()
 end)
+
+Tab1Section:NewButton("Survive the killer new","only works In classic",function()
+loadstring(game:HttpGet('https://pastebin.com/raw/TtdvYAKU'))()
+end)
+
