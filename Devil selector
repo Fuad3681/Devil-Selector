@@ -1440,30 +1440,30 @@ Tab7Section:NewButton("Sniper","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/xwhiWedh"))()
 end)
 
-Tab1Section:NewButton("GaleFighter","No description",function()
+Tab7Section:NewButton("GaleFighter","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/5jBTETjn"))()
 end)
 
-Tab1Section:NewButton("Minigun","No description",function()
+Tab7Section:NewButton("Minigun","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/pza8ZXXS"))()
 end)
 
-Tab1Section:NewButton("Headless","No description",function()
+Tab7Section:NewButton("Headless","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/QUDSU8Fk"))()
 end)
 
-Tab1Section:NewButton("Minigum V2","No description",function()
+Tab7Section:NewButton("Minigum V2","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/2VNFAQZp"))()
 end)
 
-Tab1Section:NewButton("Hammer","Oversized Hammer of the Titans",function()
+Tab7Section:NewButton("Hammer","Oversized Hammer of the Titans",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/MfLmztAC"))()
 end)
 
-Tab1Section:NewButton("Hoverboard","No description",function()
+Tab7Section:NewButton("Hoverboard","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/xSNp0dKd"))()
 end)
 
-Tab1Section:NewButton("Slasher","No description",function()
+Tab7Section:NewButton("Slasher","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/qQk2MB7R"))()
 end)
