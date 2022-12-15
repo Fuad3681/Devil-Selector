@@ -18,6 +18,8 @@ local Tab5Section = Tab5:NewSection("Buy for 12 Robux")
 local Tab6 = window:NewTab("Updates")
 local Tab6Section = Tab6:NewSection("Fixed Keyboard script")
 local Tab6Section = Tab6:NewSection("Added 10 more scripts")
+local Tab7 = window:NewTab("Animations fe")
+local Tab7Section = Tab7:NewSection("Fe animation")
 
 
 
@@ -1415,4 +1417,52 @@ for i,v in next, game:GetService("Players").LocalPlayer.Character:GetDescendants
         Text = "Netless Ran";
         Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
     Duration = 16;
+end)
+
+Tab7Section:NewButton("Chill","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/XmHFdTij"))()
+end)
+
+Tab7Section:NewButton("spider","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/QjjD7gx1"))()
+end)
+
+Tab7Section:NewButton("Drone","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/GriadDUx"))()
+end)
+
+Tab7Section:NewButton("SkateBoard","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/xqAN0bhi"))()
+end)
+
+Tab7Section:NewButton("Sniper","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/xwhiWedh"))()
+end)
+
+Tab1Section:NewButton("GaleFighter","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/5jBTETjn"))()
+end)
+
+Tab1Section:NewButton("Minigun","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/pza8ZXXS"))()
+end)
+
+Tab1Section:NewButton("Headless","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/QUDSU8Fk"))()
+end)
+
+Tab1Section:NewButton("Minigum V2","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/2VNFAQZp"))()
+end)
+
+Tab1Section:NewButton("Hammer","Oversized Hammer of the Titans",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/MfLmztAC"))()
+end)
+
+Tab1Section:NewButton("Hoverboard","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/xSNp0dKd"))()
+end)
+
+Tab1Section:NewButton("Slasher","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/qQk2MB7R"))()
 end)
