@@ -21,6 +21,9 @@ local Tab6Section = Tab6:NewSection("Added 10 more scripts")
 local Tab6Section = Tab6:NewSection("Added animations tab")
 local Tab7 = window:NewTab("Animations fe")
 local Tab7Section = Tab7:NewSection("Fe animation")
+local Tab8 = window:NewTab("Christmas")
+local Tab8Section = Tab8:NewSection("Added in Christmas")
+
 
 
 
@@ -1534,7 +1537,7 @@ return oldNC(Self, unpack(Arguments))
 end)
 end)
 
-Tab1Section:NewButton("(Fe) Permanent mod script","(Note) this is a game",function()
+Tab8Section:NewButton("(Fe) Permanent mod script","(Note) this is a game",function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Checkpoints["Checkpoint 750"].CFrame
 end)
 
@@ -1542,6 +1545,10 @@ Tab7Section:NewButton("Krystal dance","No description",function()
 loadstring(game:HttpGetAsync("https://pastebin.com/raw/FV3HLmTH"))()
 end)
 
-Tab1Section:NewButton("Psx Christmas Update","Project Wd",function()
+Tab8Section:NewButton("Psx Christmas Update","Project Wd",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
+end)
+
+Tab8Section:NewButton("Free gamepass fly race clicker","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Bla_Race'))()
 end)
