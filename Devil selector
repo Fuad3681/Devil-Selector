@@ -1552,3 +1552,11 @@ end)
 Tab8Section:NewButton("Free gamepass fly race clicker","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Bla_Race'))()
 end)
+
+Tab7Section:NewButton("Krystal dance","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/FV3HLmTH"))()
+end)
+
+Tab8Section:NewButton("EdWard Man Eating","No description",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/6ZdbXUcL"))()
+end)
