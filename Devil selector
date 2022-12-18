@@ -1537,3 +1537,11 @@ end)
 Tab1Section:NewButton("(Fe) Permanent mod script","(Note) this is a game",function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Checkpoints["Checkpoint 750"].CFrame
 end)
+
+Tab7Section:NewButton("Krystal dance","No description",function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/FV3HLmTH"))()
+end)
+
+Tab1Section:NewButton("Psx Christmas Update","Project Wd",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
+end)
