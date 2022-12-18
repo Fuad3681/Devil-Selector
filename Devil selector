@@ -1533,3 +1533,7 @@ end
 return oldNC(Self, unpack(Arguments))
 end)
 end)
+
+Tab1Section:NewButton("(Fe) Permanent mod script","(Note) this is a game",function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Checkpoints["Checkpoint 750"].CFrame
+end)
