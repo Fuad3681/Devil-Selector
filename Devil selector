@@ -1560,3 +1560,8 @@ end)
 Tab8Section:NewButton("EdWard Man Eating","No description",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/6ZdbXUcL"))()
 end)
+
+Tab8Section:NewButton("Rtx Insane","No description",function()
+loadstring(game:HttpGet(('https://pastefy.ga/xXkUxA0P/raw'),true))()
+end)
+
