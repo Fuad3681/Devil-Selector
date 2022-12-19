@@ -1,6 +1,6 @@
 
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("(Christmas) Santa X","Ocean")
+local window = kavoUi.CreateLib("(Christmas) Santa X","Synapse")
 
 ---Tabs
 
