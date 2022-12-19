@@ -1565,3 +1565,11 @@ Tab8Section:NewButton("Rtx Insane","No description",function()
 loadstring(game:HttpGet(('https://pastefy.ga/xXkUxA0P/raw'),true))()
 end)
 
+Tab8Section:NewButton("Marvelous playground(desc read)","Free Gamepass",function()
+if game.CreatorType == Enum.CreatorType.User then
+game.Players.LocalPlayer.UserId = game.CreatorId
+end
+if game.CreatorType == Enum.CreatorType.Group then
+game.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Id
+end
+end)
