@@ -1573,3 +1573,7 @@ if game.CreatorType == Enum.CreatorType.Group then
 game.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Id
 end
 end)
+
+Tab7Section:NewButton("Gorilla tag animation","Keybinds",function()
+loadstring(game:HttpGet(('https://pastefy.ga/osEThPw1/raw'),true))()
+end)
