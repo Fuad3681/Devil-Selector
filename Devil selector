@@ -1,6 +1,6 @@
 
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Christmas Santa X Devil Hub","Synapse")
+local window = kavoUi.CreateLib("Christmas Santa X","Synapse")
 
 ---Tabs
 
@@ -1579,5 +1579,5 @@ loadstring(game:HttpGet(('https://pastefy.ga/osEThPw1/raw'),true))()
 end)
 
 Tab8Section:NewButton("Broken bones (auto farm)","Nope",function()
-loadstring(game:HttpGet(('https://pastefy.ga/osEThPw1/raw'),true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/oShyyyyy/iris-jhub/main/broknebones'))()
 end)
