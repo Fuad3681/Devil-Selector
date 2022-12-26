@@ -1600,3 +1600,8 @@ end)
 Tab1Section:NewButton("ApeiroPhobia","Wow",function()
 loadstring(game:HttpGet('https://pastebin.com/raw/0ptVa7Dn'))()
 end)
+
+Tab1Section:NewButton("Field Z Trip","Keybinds",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Field-Trip-Z'))()
+end)
+
