@@ -1,6 +1,6 @@
 
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Christmas Santa X","Synapse")
+local window = kavoUi.CreateLib("Devil X ","Synapse")
 
 ---Tabs
 
@@ -19,6 +19,9 @@ local Tab6 = window:NewTab("Updates")
 local Tab6Section = Tab6:NewSection("Fixed Keyboard script")
 local Tab6Section = Tab6:NewSection("Added 10 more scripts")
 local Tab6Section = Tab6:NewSection("Added animations tab")
+local Tab6Section = Tab6:NewSection("I Was In Hospital")
+local Tab6Section = Tab6:NewSection("New Script")
+
 local Tab7 = window:NewTab("Animations fe")
 local Tab7Section = Tab7:NewSection("Fe animation")
 local Tab8 = window:NewTab("Christmas")
@@ -1578,3 +1581,6 @@ Tab7Section:NewButton("Gorilla tag animation","Keybinds",function()
 loadstring(game:HttpGet(('https://pastefy.ga/osEThPw1/raw'),true))()
 end)
 
+Tab7Section:NewButton("Sword Fighters Sim","Kavo",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/ZfaXaSJv"))()
+end)
