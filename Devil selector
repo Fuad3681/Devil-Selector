@@ -1581,6 +1581,10 @@ Tab7Section:NewButton("Gorilla tag animation","Keybinds",function()
 loadstring(game:HttpGet(('https://pastefy.ga/osEThPw1/raw'),true))()
 end)
 
-Tab7Section:NewButton("Sword Fighters Sim","Kavo",function()
+Tab1Section:NewButton("Sword Fighters Sim","Kavo",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/ZfaXaSJv"))()
+end)
+
+Tab2Section:NewButton("Simplity gui","Keybinds",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeyGyt/simplityv2/main/main"))()
 end)
